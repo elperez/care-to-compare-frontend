@@ -1,7 +1,6 @@
 # CareToCompare? front end
 
-# Multi-Themed Browser Tic-Tac-Toe
-`HTML` `CSS` `JavaScript`
+`HTML` `CSS` `JavaScript` `React.JS`
 ----
 ## Table of contents
 1. [Introduction](#introduction)
@@ -18,12 +17,12 @@ This project aims to continue of one of the projects initiated by a Roberto Piet
 
 * The project allows me to focus on the front end aspect.  In the future, the front end will use the search api from another project https://github.com/RHoKAustralia/care2compare-search-api, which will be developed using Java by other volunteers. Lastly, there is already a mockup which I can follow.
 
-* I can continue working on it afterwards as the project progresses.
+* The project has a potential to grow and it is really useful.
 
 ### Technologies
 
 * React.JS and React packages used:
-[react-router], [react-social-icons], [react-materialize](https://github.com/react-materialize/react-materialize), [material-ui](https://github.com/callemall/material-ui),[react-slick](https://github.com/akiran/react-slick)
+[react-router](https://www.npmjs.com/package/react-router), [react-social-icons](https://www.npmjs.com/package/react-social-icons), [react-materialize](https://github.com/react-materialize/react-materialize), [material-ui](https://github.com/callemall/material-ui),[react-slick](https://github.com/akiran/react-slick)
 
 * Javascript, HTML, CSS
 
